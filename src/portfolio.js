@@ -26,7 +26,7 @@ const greeting = {
     "A creative and innovative full stack developer with a passion for building cutting-edge web applications using the latest frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1vO8oJdPliT1KKTpdhvEbr5nAGeQLcpRn/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1QBTHTXWLeu1KsqDUQ447cgcWAFCh61cC/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
